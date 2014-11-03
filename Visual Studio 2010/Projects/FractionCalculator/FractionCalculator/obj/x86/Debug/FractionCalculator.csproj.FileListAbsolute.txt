@@ -1,0 +1,9 @@
+C:\Users\David\AppData\Local\Temporary Projects\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\David\AppData\Local\Temporary Projects\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\David\AppData\Local\Temporary Projects\FractionCalculator\obj\x86\Debug\FractionCalculator.FractionCalculator.resources
+C:\Users\David\AppData\Local\Temporary Projects\FractionCalculator\obj\x86\Debug\FractionCalculator.Properties.Resources.resources
+C:\Users\David\AppData\Local\Temporary Projects\FractionCalculator\obj\x86\Debug\FractionCalculator.csproj.GenerateResource.Cache
+C:\Users\David\AppData\Local\Temporary Projects\FractionCalculator\obj\x86\Debug\FractionCalculator.exe
+C:\Users\David\AppData\Local\Temporary Projects\FractionCalculator\obj\x86\Debug\FractionCalculator.pdb
+C:\Users\David\documents\visual studio 2010\Projects\FractionCalculator\FractionCalculator\obj\x86\Debug\FractionCalculator.exe
+C:\Users\David\documents\visual studio 2010\Projects\FractionCalculator\FractionCalculator\obj\x86\Debug\FractionCalculator.pdb

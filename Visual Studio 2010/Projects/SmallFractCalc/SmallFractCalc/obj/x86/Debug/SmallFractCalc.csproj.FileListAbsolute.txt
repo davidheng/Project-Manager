@@ -1,0 +1,9 @@
+C:\Users\David\AppData\Local\Temporary Projects\SmallFractCalc\bin\Debug\SmallFractCalc.exe
+C:\Users\David\AppData\Local\Temporary Projects\SmallFractCalc\bin\Debug\SmallFractCalc.pdb
+C:\Users\David\AppData\Local\Temporary Projects\SmallFractCalc\obj\x86\Debug\SmallFractCalc.Form1.resources
+C:\Users\David\AppData\Local\Temporary Projects\SmallFractCalc\obj\x86\Debug\SmallFractCalc.Properties.Resources.resources
+C:\Users\David\AppData\Local\Temporary Projects\SmallFractCalc\obj\x86\Debug\SmallFractCalc.csproj.GenerateResource.Cache
+C:\Users\David\AppData\Local\Temporary Projects\SmallFractCalc\obj\x86\Debug\SmallFractCalc.exe
+C:\Users\David\AppData\Local\Temporary Projects\SmallFractCalc\obj\x86\Debug\SmallFractCalc.pdb
+C:\Users\David\documents\visual studio 2010\Projects\SmallFractCalc\SmallFractCalc\obj\x86\Debug\SmallFractCalc.exe
+C:\Users\David\documents\visual studio 2010\Projects\SmallFractCalc\SmallFractCalc\obj\x86\Debug\SmallFractCalc.pdb
